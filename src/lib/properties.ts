@@ -114,6 +114,7 @@ const _props = {
     // 'raIS': ['', '', undefined],
     // 'raMd': ['', '', undefined],
     // 'raPo': ['', '', undefined],
+    'raPo': ['str', 'Transmit Power', undefined] as Prop<'str'>,
     // 'raPx': ['', '', undefined],
     // 'raTr': ['', '', undefined],
     // 'raDt': ['', '', undefined],
